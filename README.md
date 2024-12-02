@@ -1,6 +1,3 @@
-Hi 👋 My name is Abdallah Nassar
-================================
-
 Software Developer
 ------------------
 

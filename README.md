@@ -17,4 +17,4 @@ Software Developer
 
 ### Badges
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodawy04&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bodawy04" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodawy04&langs_count=12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bodawy04" />

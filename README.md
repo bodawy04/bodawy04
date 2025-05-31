@@ -30,7 +30,7 @@
 <p align="left"> <a href="https://www.github.com/bodawy04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdallahnassar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bodawy04&langs_count=12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bodawy04" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bodawy04&langs_count=12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="bodawy04" />
 
 <br /><br /><br />
 
